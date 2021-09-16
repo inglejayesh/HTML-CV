@@ -1,0 +1,11 @@
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(15, 15, 15);
+    border-width: 10px;
+    width: 30%;
+}
+
+img {
+    height: 250px;
+}
